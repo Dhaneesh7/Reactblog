@@ -1,0 +1,72 @@
+1 what are uncontrolled component
+A: uncontrolled component  can be used for manage the state using useState
+2 what are controlled component
+A: 
+3 how can we transfer data from various component
+
+A : we can transfer data using various methods,
+    props
+    redux
+    context
+    we can use props to transfer data between components, redux and context to share datas globally using state 
+4 what is difference between usememo  and usecallback
+
+A: usememo is used for memorisation,which memorise a value,where callback memorise a function
+
+ 5 how can we improve performance of react
+
+A: we can improve the performance of react  through many methods in react like hooks,lazyloading etc.,
+we can use usememo,callback to reduce unnecessary rerendering, using lazyloading decrease loading time,it takes datas when that data i s needed
+6 what is single  application
+
+7 how does react application getting single application page
+
+8 what is redux and use cases
+ A : redux is a third party library ,which is used for centralised global storage in react
+we can manage state using action reducer dispatch
+
+9 advantages of react over context
+
+10 what is useeffect
+A : useEffect is a hook ,in which it is used for the side effect it works when the state is changed the function in the useeffect will works,that is whenever the state changes  the fuction is also run repeatedly  
+
+11what is jsx
+
+A: jsx is an extension of the javascript,so it is more advance than js,it has more advance level js so it is more easy to build application using jsx than js
+
+12 what is difference between jsx and html
+A: jsx is extension of js ,html used for creating structure of a page 
+13 call api in react aplication
+
+14 what is the limitation in react
+
+15 what are advantages of react
+
+A: in react there are many advantages,
+it is more easier than js,it is reausable,the react appliction can run in different platfform such as mobile,computer
+
+16 how to use style in react
+
+A : just like html ,we can use stlye, by import a css file into an react application or using the style keyword
+
+17 explain routing react
+
+A: routing is  in react,in which it is used for navigating between different pages,by giving different path to the url of pages
+
+18 what are hooks and why the intriduce
+
+A: hooks are used for accessing diffent react features, it start with use keyword,it has many methods 
+useState- it is used for managing the state
+useEffect-  it is used for the side effect it works when the state is changed the function in the useeffect will works
+useRef- it is used for getting a reference of object and manapulating the state,we can acess the current value,name,etc., of that object
+ 
+19 how do we manage state in react applicatuin
+
+A: we can manage state using useState hook
+20 what is  props drilling how can we avoid in
+
+21 what is the significiant keys in react how do the works in list
+
+22 what is pure component
+
+23 what is the difference between client side rendering and server  rendering
